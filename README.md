@@ -1,4 +1,6 @@
 # Discord-Rich-Presence
+https://niggerylife.is-terrible.com/kHrvBx
+
 1. go to:
 
 https://discord.com/developers/applications
